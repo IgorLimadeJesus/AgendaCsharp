@@ -1,0 +1,14 @@
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\bin\Debug\net8.0\CARLAO-ANAO.exe
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\bin\Debug\net8.0\CARLAO-ANAO.deps.json
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\bin\Debug\net8.0\CARLAO-ANAO.runtimeconfig.json
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\bin\Debug\net8.0\CARLAO-ANAO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\bin\Debug\net8.0\CARLAO-ANAO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\refint\CARLAO-ANAO.dll
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.pdb
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\CARLAO-ANAO.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Área de Trabalho\FACULDADE\CARLAO-ANAO\obj\Debug\net8.0\ref\CARLAO-ANAO.dll
