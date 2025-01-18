@@ -16,9 +16,23 @@ class Contatos
         agenda.Add(telefone);
         agenda.Add(email);
 
-        sw.WriteLine(agenda);
+        try
+        {
+            foreach (var name in agenda)
+            {
+                sw.WriteLine(name);
+                sw.WriteLine("----------------");
+            }
 
-        sw.Close();
+        }
+        catch (Exception e)
+        {
+            System.Console.WriteLine("Erro ao adicionar contato: " + e.Message);
+        }
+        finally
+        {
+            sw.Close();
+        }
 
         System.Console.WriteLine("Adicionado com sucesso!");
     }

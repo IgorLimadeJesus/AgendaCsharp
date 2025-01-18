@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CARLAO-ANAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc261282fb08d30a4925e43df74d24da41d97cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e147cb7387153cfb7ef565e41e691507dc0f5eeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CARLAO-ANAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CARLAO-ANAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
