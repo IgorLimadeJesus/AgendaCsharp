@@ -1,4 +1,6 @@
-﻿namespace Agenda
+﻿using System.IO;
+
+namespace Agenda
 {
     class Program
     {
@@ -6,9 +8,7 @@
         {
             Contatos contatos = new Contatos();
 
-            contatos.AddContato("Ana", "1293213", "Banana@email.com");
-            contatos.Listar();
-
+            contatos.Menu();
         }
     }
 }
